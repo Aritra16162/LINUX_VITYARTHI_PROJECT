@@ -1,0 +1,14 @@
+### My Open Source Manifesto ###
+Date: 30 March 2026
+
+I believe in open source because tools like LibreOffice - with
+features like AUDIT - prove that world-class software can
+be built and shared without charging anyone a single rupee.
+
+To me, open source means choice. It is not just a licence;
+it is a philosophy that says knowledge grows when it is shared.
+
+If I had the chance to contribute, I would build Student random number generator
+and release it freely, so that someone else can build on top of it.
+
+- HP | 30 March 2026
